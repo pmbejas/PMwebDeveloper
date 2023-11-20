@@ -1,4 +1,3 @@
-import 'portfolio.css'
 
 export const Portfolio = () => {
   return (
